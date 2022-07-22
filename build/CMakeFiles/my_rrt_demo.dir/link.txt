@@ -1,0 +1,1 @@
+/usr/bin/c++  -Wall -Wextra  -O3 -DNDEBUG -rdynamic CMakeFiles/my_rrt_demo.dir/src/main.cpp.o -o my_rrt_demo  -Wl,-rpath,/usr/local/lib libmy_rrt.a /usr/local/lib/libosqp.so 

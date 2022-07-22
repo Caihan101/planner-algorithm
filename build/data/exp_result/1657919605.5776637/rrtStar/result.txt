@@ -1,0 +1,60 @@
+exp1
+rrtStar time: 0.136972 s
+rrtStar node size: 3602
+rrtStar iter count: 8499
+coarse path length: 1025.24
+
+exp2
+rrtStar time: 0.061202 s
+rrtStar node size: 2617
+rrtStar iter count: 5232
+coarse path length: 1100.68
+
+exp3
+rrtStar time: 0.30627 s
+rrtStar node size: 4584
+rrtStar iter count: 15041
+coarse path length: 1050.57
+
+exp4
+rrtStar time: 0.147052 s
+rrtStar node size: 3549
+rrtStar iter count: 9848
+coarse path length: 1079.35
+
+exp5
+rrtStar time: 0.112948 s
+rrtStar node size: 3330
+rrtStar iter count: 7124
+coarse path length: 1128.21
+
+exp6
+rrtStar time: 0.036114 s
+rrtStar node size: 2105
+rrtStar iter count: 4138
+coarse path length: 1125.21
+
+exp7
+rrtStar time: 0.296661 s
+rrtStar node size: 4589
+rrtStar iter count: 15030
+coarse path length: 1043.91
+
+exp8
+rrtStar time: 1.26139 s
+rrtStar node size: 5909
+rrtStar iter count: 50467
+coarse path length: 1056.83
+
+exp9
+rrtStar time: 0.014003 s
+rrtStar node size: 1293
+rrtStar iter count: 2858
+coarse path length: 1075.17
+
+exp10
+rrtStar time: 0.024138 s
+rrtStar node size: 1594
+rrtStar iter count: 4539
+coarse path length: 1217.1
+

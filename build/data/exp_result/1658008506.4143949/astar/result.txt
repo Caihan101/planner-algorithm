@@ -1,0 +1,6 @@
+astar time: 0.053593 s
+opensize: 941
+closesize: 163040
+create corridor box time: 3.68662 s
+opt time: 0.019068 s
+total path: 842.273

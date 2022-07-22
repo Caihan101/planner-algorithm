@@ -1,0 +1,4 @@
+rrtStar time: 1.53503 s
+rrtStar node size: 6094
+rrtStar iter count: 59220
+coarse path length: 962.919

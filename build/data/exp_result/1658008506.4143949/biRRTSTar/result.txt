@@ -1,0 +1,60 @@
+exp1
+bi rrtStar time: 0.16006 s
+bi rrtStar node size: 3258
+bi rrtStar iter count: 6493
+coarse path length: 1025.35
+
+exp2
+bi rrtStar time: 0.004985 s
+bi rrtStar node size: 733
+bi rrtStar iter count: 891
+coarse path length: 1032.6
+
+exp3
+bi rrtStar time: 0.036074 s
+bi rrtStar node size: 1694
+bi rrtStar iter count: 3180
+coarse path length: 1057.65
+
+exp4
+bi rrtStar time: 0.030027 s
+bi rrtStar node size: 1564
+bi rrtStar iter count: 2956
+coarse path length: 1176.82
+
+exp5
+bi rrtStar time: 0.224198 s
+bi rrtStar node size: 3577
+bi rrtStar iter count: 7711
+coarse path length: 1080.49
+
+exp6
+bi rrtStar time: 0.68901 s
+bi rrtStar node size: 5034
+bi rrtStar iter count: 17152
+coarse path length: 1124.09
+
+exp7
+bi rrtStar time: 1.45741 s
+bi rrtStar node size: 5739
+bi rrtStar iter count: 30096
+coarse path length: 1006.6
+
+exp8
+bi rrtStar time: 0.015236 s
+bi rrtStar node size: 1172
+bi rrtStar iter count: 2023
+coarse path length: 1118.47
+
+exp9
+bi rrtStar time: 0.002437 s
+bi rrtStar node size: 535
+bi rrtStar iter count: 542
+coarse path length: 1039.65
+
+exp10
+bi rrtStar time: 1.14574 s
+bi rrtStar node size: 5559
+bi rrtStar iter count: 24922
+coarse path length: 1077.1
+
