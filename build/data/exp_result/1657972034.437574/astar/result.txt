@@ -1,7 +1,0 @@
-astar time: 0.017676 s
-opensize: 1789
-closesize: 53474
-create corridor box time: 3.51463 s
-opt time: 0.022455 s
-total path: 895.784
-average curvature: 0.000139108
